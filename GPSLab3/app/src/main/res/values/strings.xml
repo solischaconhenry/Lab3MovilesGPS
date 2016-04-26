@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GPSLab3</string>
+    <string name="pause">Pausar Actualización</string>
+    <string name="resume">Reiniciar Actualización</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
